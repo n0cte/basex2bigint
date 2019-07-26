@@ -1,0 +1,30 @@
+{
+  "name": "basex2bigint",
+  "version": "0.0.1",
+  "description": "Base encoding / decoding of any given alphabet",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0cte/basex2bigint.git"
+  },
+  "keywords": [
+    "base",
+    "base58",
+    "base64",
+    "crypto",
+    "decode",
+    "encode"
+  ],
+  "author": "n0cte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n0cte/basex2bigint/issues"
+  },
+  "homepage": "https://github.com/n0cte/basex2bigint#readme",
+  "devDependencies": {
+    "tape": "^4.11.0"
+  }
+}
